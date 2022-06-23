@@ -41,11 +41,11 @@ const IndexPage = () => {
 
           <p style={{ marginTop: 20 }}>we would like to ask you to pick one of the following methods to send us your work:</p>
           <ul>
-            <li>compress the source file and email to <a href='mailto:matthewlam@lcjgroup.com'>matthewlam@lcjgroup.com</a></li>
+            <li>compress the source file and email to <a href='mailto:betalabstech@lcjgroup.com'>betalabstech@lcjgroup.com</a></li>
             <li style={{ marginTop: 20 }}>
               <ol>
                 <li>create a private repository on github</li>
-                <li>invite <a data-testid='main-instruction-collaborator' href='https://github.com/matthewlamlcj'>matthewlamlcj</a> as a collaborator once you are happy to show your work</li>
+                <li>invite <a data-testid='main-instruction-collaborator' href='https://github.com/lcjg-betalabstech'>lcjg-betalabstech</a> as a collaborator once you are happy to show your work</li>
               </ol>
             </li>
             <li style={{ marginTop: 20 }}>
