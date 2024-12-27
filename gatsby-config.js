@@ -5,5 +5,5 @@ module.exports = {
   plugins: [
     `gatsby-plugin-provide-react`,
   ],
-  //pathPrefix: "/test-site-qa",
+  pathPrefix: "/test-site-qa",
 }
