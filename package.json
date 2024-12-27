@@ -17,17 +17,19 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@material-ui/core": "^4.12.3",
-    "@mui/x-data-grid": "^4.0.0",
-    "axios": "^0.21.1",
-    "gatsby": "^3.12.1",
+    "@mui/material": "^6.3.0",
+    "@mui/x-data-grid": "^7.23.3",
+    "axios": "^1.7.9",
+    "gatsby": "^5.14.1",
     "gatsby-plugin-provide-react": "^1.0.2",
-    "gatsby-source-filesystem": "^3.13.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-hook-form": "^7.14.2"
+    "gatsby-source-filesystem": "^5.14.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-hook-form": "^7.54.2",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled":  "11.14.0"
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages":  "^6.2.0"
   }
 }
